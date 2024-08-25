@@ -10,13 +10,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "918133001466"
+global.ownernomer = "2349114224240"
 global.ownername = "🦄Dream Guy Thunder"
 global.ytname = "YT: Thunder"
 global.socialm = "GitHub: DGThunder"
 global.location = "India, Rajasthan, Aizawl"
 
-global.ownernumber = '918133001466'  //creator number
+global.ownernumber = '2349114224240'  //creator number
 global.ownername = '🦄Dream Guy Thunder' //owner name
 global.botname = 'Thunder Bug Bot' //name of the bot
 
@@ -35,9 +35,9 @@ global.link = ''
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
